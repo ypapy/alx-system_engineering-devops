@@ -1,2 +1,2 @@
 #!/bin/bash
-cd /var 
+su -l betty
